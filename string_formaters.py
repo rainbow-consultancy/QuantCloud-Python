@@ -22,4 +22,3 @@ print("Hey {n} your current age is - {a}".format(n=name, a=current_year - birth_
 
 # option 2: short hand notation
 print(f"Hey {name} your current age is - {current_year - birth_year}")
-
