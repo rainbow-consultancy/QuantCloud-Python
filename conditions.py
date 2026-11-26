@@ -56,9 +56,4 @@ if exp >= 5:
     else:
         print("Not Eligible")
 else:
-    print("Minimum exp required is 5 years")
-
-    
-
-
-    
+    print("Minimum exp required is 5 years") 
